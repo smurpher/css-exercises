@@ -1,0 +1,18 @@
+.pink {
+  background: rgba(216, 110, 112, 0.529);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second-element {
+  color: rgb(29, 29, 255);
+  font-size: 36px;
+}
+
+.large-font {
+  font-size: 24px;
+}  
+
+#fourth-element {
+  background: rgb(130, 251, 140);
+  font-weight: bold;
+}
